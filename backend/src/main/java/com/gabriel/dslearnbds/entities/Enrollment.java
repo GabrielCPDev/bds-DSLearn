@@ -1,4 +1,4 @@
-package com.devsuperior.dslearnbds.entities;
+package com.gabriel.dslearnbds.entities;
 
 import java.time.Instant;
 import java.util.ArrayList;
@@ -13,7 +13,7 @@ import javax.persistence.ManyToMany;
 import javax.persistence.OneToMany;
 import javax.persistence.Table;
 
-import com.devsuperior.dslearnbds.entities.pk.EnrollmentPK;
+import com.gabriel.dslearnbds.entities.pk.EnrollmentPK;
 
 @Entity
 @Table(name = "tb_enrollment")

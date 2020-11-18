@@ -1,4 +1,4 @@
-package com.devsuperior.dslearnbds.entities;
+package com.gabriel.dslearnbds.entities;
 
 import java.io.Serializable;
 import java.time.Instant;
